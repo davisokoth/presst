@@ -4,3 +4,8 @@ scipy
 spacy
 image-search
 opencv-python
+grequests
+smallutils
+gevent
+reportlab
+Pillow
